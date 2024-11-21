@@ -36,7 +36,7 @@ red_social_db/
 Primero, clona el repositorio del proyecto a tu máquina local.
 
 
-git clone https://github.com/tuusuario/red_social_db.git
+git clone https://github.com/scereda2/final_basedeDatos3.git
 
 
 ### Instalar Dependencias
